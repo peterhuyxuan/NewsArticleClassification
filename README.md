@@ -1,1 +1,1 @@
-# NewsArticleClassification
+# News Article Classification
